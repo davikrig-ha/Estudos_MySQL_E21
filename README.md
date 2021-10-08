@@ -4,7 +4,7 @@
 
 <ul>
   <li>Principais comandos</li>
-  <li>listar ealterar dados</li>
+  <li>listar e alterar dados</li>
   <li>pesquisas nas tabelas</li>
   <li>Inner Join</li>
 </ul>
